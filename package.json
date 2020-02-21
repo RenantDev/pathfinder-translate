@@ -1,0 +1,8 @@
+{
+    "name": "tradutor",
+    "version": "1.0.1",
+    "main": "./tradutor.js",
+    "dependencies": {
+        "google-translate": "^3.0.0",
+    }
+}

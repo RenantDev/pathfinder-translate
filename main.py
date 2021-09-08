@@ -1,6 +1,6 @@
 ## Projeto tradução Pathfinder: King Maker  ##
 #   Criado por:                              #
-#   Luiz Filipe Azeredo (Daft Punk)          #
+#   Luiz Filipe Azeredo (Eskimogamepro)          #
 #   Renant Bernabe (Mutar)                   #
 #   Criado em 25/08/2020                     #
 ##############################################

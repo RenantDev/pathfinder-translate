@@ -6,7 +6,7 @@ Arquivo de Tradução: <br>
 [w1-3-6d.zip](https://github.com/RenantDev/pathfinder-translate/raw/master/w1-3-6d.zip)
 
 # Tradução pathfinde: king maker Python
-https://www.youtube.com/watch?v=WW-JoJ40p_Q
+https://www.youtube.com/watch?v=WW-JoJ40p_Q <br>
 Arquivo de Tradução: <br>
 [2-1-7b.zip](https://github.com/RenantDev/pathfinder-translate/raw/master/2-1-7b.zip)
 

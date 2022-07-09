@@ -1,7 +1,8 @@
 
 
 # Tradução Pathfinder: Wrath of the Righteous 
-https://www.youtube.com/watch?v=1zFU3uag70Q
+https://www.youtube.com/watch?v=1zFU3uag70Q <br>
+Arquivo de Tradução: w1-3-6d.zip
 
 # Tradução pathfinde: king maker Python
 https://www.youtube.com/watch?v=WW-JoJ40p_Q

@@ -3,7 +3,7 @@
 # Tradução Pathfinder: Wrath of the Righteous - Python
 https://www.youtube.com/watch?v=1zFU3uag70Q <br>
 Arquivo de Tradução: <br>
-[w2-0-7n.zip](https://github.com/RenantDev/pathfinder-translate/raw/master/w2-0-7n.zip)
+[Ultima Versão](https://mutar.com.br)
 
 # Tradução pathfinde: King Maker - Python
 https://www.youtube.com/watch?v=WW-JoJ40p_Q <br>

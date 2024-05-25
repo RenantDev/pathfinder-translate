@@ -1,4 +1,8 @@
+# Doações & Apoio ao projeto
+https://livepix.gg/mutar51
 
+# Site oficial
+https://mutar.com.br/
 
 # Tradução Pathfinder: Wrath of the Righteous - Python
 https://www.youtube.com/watch?v=1zFU3uag70Q <br>
